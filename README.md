@@ -4,6 +4,5 @@
 
 ![Image text](https://github.com/Silvaoscar/shop-card/blob/master/images/cardshop.jpg)
 
-## Example
-
-![Image text](https://github.com/Silvaoscar/shop-card/blob/master/images/Example.png)
+## Link
+https://www.zalando.de/alpha-industries-spark-cargohose-dark-olive-al522e00q-n11.html
