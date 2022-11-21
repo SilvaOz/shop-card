@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+body {
+    background-color: rgba(211, 211, 211, 0.439);
+}
+
+.hose-card {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20vh;
+    flex-direction: column;
+}
+
+.card {
+    width: 13rem;
+}
+
+.card .image-hose {
+    display: flex;
+    flex-direction: column;
+    background-color: #f6f6f6;
+    background-image: url("../images/hose.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20rem;
+}
+
+
+.image-hose :first-child {
+    align-self: flex-end;
+    width: 2rem;
+    height: 2rem;
+    margin-top: 1px;
+    font-size: 1.5rem;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.711);
+
+}
+
+.image-hose :last-child {
+    background-color: red;
+    width: 3rem;
+    justify-self: flex-end;
+    position: relative;
+    top: 16.2rem;
+    z-index: 2;
+}
+
+p, h6>span {
+    color: red;
+}
+
+h4, h6 {
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
