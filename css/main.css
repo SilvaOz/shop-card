@@ -55,10 +55,12 @@ body {
 
 p, h6>span {
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .price{
     font-weight: bold;
 }
+
 
 h4, h6 {
     font-weight: lighter;
