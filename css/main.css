@@ -45,11 +45,12 @@ body {
 
 .image-hose :last-child {
     background-color: red;
-    width: 3rem;
+    width: 2rem;
     justify-self: flex-end;
     position: relative;
     top: 16.2rem;
     z-index: 2;
+    color: white;
 }
 
 p, h6>span {
