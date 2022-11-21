@@ -5,6 +5,7 @@
 
 body {
     background-color: rgba(211, 211, 211, 0.439);
+
 }
 
 .hose-card {
@@ -57,17 +58,21 @@ p, h6>span {
     color: red;
     font-family: Arial, Helvetica, sans-serif;
 }
-.price{
-    font-weight: bold;
+
+.price {
+    font-weight: 700;
+
 }
 
 
 h4, h6 {
     font-weight: lighter;
 }
-h5{
+
+h5 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+
 }
 
 a {
